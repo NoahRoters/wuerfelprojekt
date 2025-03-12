@@ -4,8 +4,11 @@ Dieses Projekt besteht aus zwei Hauptkomponenten:
 1. **Die Mikrocontroller-Software** (C-Code für den ATmega8)
 2. **Die Remote-Steuerungssoftware** (C#-Anwendung für Windows)
 
-Beide Komponenten arbeiten zusammen, um einen elektronischen Würfel mit LEDs zu steuern und das Würfelergebnis über eine serielle Schnittstelle an den PC zu übertragen.
-Die Hardware grundlage bezieht sich auf einer privaten Platinenkonstruktion.
+---
+
+- Beide Komponenten arbeiten zusammen, um einen elektronischen Würfel mit LEDs zu steuern und das Würfelergebnis über eine serielle Schnittstelle an den PC zu übertragen.
+- Die Hardware grundlage bezieht sich auf einer privaten Platinenkonstruktion.
+- Großen dank geht an [@robsoncouto](https://github.com/robsoncouto) und seinem [Repository](https://github.com/robsoncouto/arduino-songs) für den Code der eigebetteten Musik und mitwirkenden Lehrer.
 
 ---
 
